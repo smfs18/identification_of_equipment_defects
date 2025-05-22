@@ -1,0 +1,1 @@
+# identification_of_equipment_defects
