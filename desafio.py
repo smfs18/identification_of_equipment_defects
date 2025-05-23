@@ -6,7 +6,7 @@ from sklearn.covariance import MinCovDet #Biblioteca de co variância
 import matplotlib.pyplot as plt #Biblioteca de Gráficos
 
 # Carregar os dados
-df = pd.read_excel('Failing_Equipment_Exercise.xlsx', index_col=0)
+df = pd.read_excel('identification_of_equipment_defects/Failing_Equipment_Exercise.xlsx', index_col=0)
 
 # Transpor para ter equipamentos como observações e bandas como features
 data = df.T
