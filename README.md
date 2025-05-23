@@ -97,6 +97,6 @@ Isso indica que o Object 2 está **potencialmente com defeito**, apresentando pa
 
 ```bash
 Linux e macOS: source venv/bin/activate                           # Ativar a venv Linux e Mac.
-Windows: venv\Scripts\activate                                    # Ativar a venv Windows.   
+Windows: .venv\Scripts\activate                                    # Ativar a venv Windows.   
 pip install pandas numpy scikit-learn matplotlib openpyxl         # Instala as dependências.
 Executar.
